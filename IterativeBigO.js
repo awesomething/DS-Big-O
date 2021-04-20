@@ -1,0 +1,20 @@
+// 1 SHEEP
+// O(n)
+
+// 2 POWER CALCULATOR
+// O(1)
+
+// 3 STRING REVERSE
+// O(1)
+
+// 4 NTH TRIANGULAR
+// O(n)
+
+// 5 STRING SPLITTER
+// O(n)
+
+// 6 FIBONACCI
+// O(n)
+
+// 7 FACTORIAL
+// O(n)
